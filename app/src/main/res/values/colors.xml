@@ -2,5 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="TextVariantsColor">#888992</color>
-</resources>
+    <color name="textVariantsColor">#888992</color>
+    <color name="pashalochkaColor">#FFBE98</color>
+    <color name="correctAnswer">#0EAD69</color>
+    <color name="wrongAnswer">#FA4169</color>
+    </resources>
